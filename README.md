@@ -160,3 +160,8 @@ Downloading content from YouTube may violate its Terms of Service. You are solel
 * Works best when left running in the background
 
 Happy downloading 🎥🚀
+
+
+## ⚠️ Apologize
+
+I am *sorry* for not uploading .exe file this happens due to large size *<500MB* so i unable to upload it.
